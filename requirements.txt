@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pillow
+paddleocr
+scikit-learn
+deep-translator
+langdetect
+wordninja
+libretranslatepy
+streamlit
+PyMuPDF
